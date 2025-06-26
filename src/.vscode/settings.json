@@ -1,0 +1,25 @@
+{
+    "ros.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/arnieverma/ros_projecct/install/turtlesim_catcher_pkg/lib/python3.12/site-packages",
+        "/home/arnieverma/ros2_ws/build/uav_pkg",
+        "/home/arnieverma/ros2_ws/install/uav_pkg/lib/python3.12/site-packages",
+        "/home/arnieverma/ros2_ws/build/turtlesim_catch_all",
+        "/home/arnieverma/ros2_ws/install/turtlesim_catch_all/lib/python3.12/site-packages",
+        "/home/arnieverma/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/arnieverma/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/arnieverma/install/my_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/arnieverma/ros_projecct/install/turtlesim_catcher_pkg/lib/python3.12/site-packages",
+        "/home/arnieverma/ros2_ws/build/uav_pkg",
+        "/home/arnieverma/ros2_ws/install/uav_pkg/lib/python3.12/site-packages",
+        "/home/arnieverma/ros2_ws/build/turtlesim_catch_all",
+        "/home/arnieverma/ros2_ws/install/turtlesim_catch_all/lib/python3.12/site-packages",
+        "/home/arnieverma/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/arnieverma/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+        "/home/arnieverma/install/my_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
